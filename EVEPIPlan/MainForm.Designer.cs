@@ -236,7 +236,7 @@
             // 
             // addPIBtn
             // 
-            this.addPIBtn.Location = new System.Drawing.Point(177, 320);
+            this.addPIBtn.Location = new System.Drawing.Point(177, 343);
             this.addPIBtn.Name = "addPIBtn";
             this.addPIBtn.Size = new System.Drawing.Size(24, 23);
             this.addPIBtn.TabIndex = 19;
@@ -245,7 +245,7 @@
             // 
             // removeBtn
             // 
-            this.removeBtn.Location = new System.Drawing.Point(178, 349);
+            this.removeBtn.Location = new System.Drawing.Point(178, 372);
             this.removeBtn.Name = "removeBtn";
             this.removeBtn.Size = new System.Drawing.Size(24, 23);
             this.removeBtn.TabIndex = 19;
@@ -260,6 +260,7 @@
             this.addPIInfoBtn.TabIndex = 20;
             this.addPIInfoBtn.Text = "Add PI Info";
             this.addPIInfoBtn.UseVisualStyleBackColor = true;
+            this.addPIInfoBtn.Click += new System.EventHandler(this.addPIInfoBtn_Click);
             // 
             // label9
             // 

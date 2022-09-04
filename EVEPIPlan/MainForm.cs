@@ -6,5 +6,15 @@ namespace EVEPIPlan
         {
             InitializeComponent();
         }
+
+        private void addPIInfoBtn_Click(object sender, EventArgs e)
+        {
+            (new PIInfo(this)).Show();
+        }
+
+        public void UpdatePIList()
+        {
+
+        }
     }
 }
