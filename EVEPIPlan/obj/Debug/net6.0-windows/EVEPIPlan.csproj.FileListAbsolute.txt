@@ -1,0 +1,17 @@
+C:\Users\ADMIN\source\repos\EVE_PI_Plan\EVEPIPlan\bin\Debug\net6.0-windows\EVEPIPlan.exe
+C:\Users\ADMIN\source\repos\EVE_PI_Plan\EVEPIPlan\bin\Debug\net6.0-windows\EVEPIPlan.deps.json
+C:\Users\ADMIN\source\repos\EVE_PI_Plan\EVEPIPlan\bin\Debug\net6.0-windows\EVEPIPlan.runtimeconfig.json
+C:\Users\ADMIN\source\repos\EVE_PI_Plan\EVEPIPlan\bin\Debug\net6.0-windows\EVEPIPlan.dll
+C:\Users\ADMIN\source\repos\EVE_PI_Plan\EVEPIPlan\bin\Debug\net6.0-windows\EVEPIPlan.pdb
+C:\Users\ADMIN\source\repos\EVE_PI_Plan\EVEPIPlan\obj\Debug\net6.0-windows\EVEPIPlan.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\EVE_PI_Plan\EVEPIPlan\obj\Debug\net6.0-windows\EVEPIPlan.MainForm.resources
+C:\Users\ADMIN\source\repos\EVE_PI_Plan\EVEPIPlan\obj\Debug\net6.0-windows\EVEPIPlan.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\EVE_PI_Plan\EVEPIPlan\obj\Debug\net6.0-windows\EVEPIPlan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\EVE_PI_Plan\EVEPIPlan\obj\Debug\net6.0-windows\EVEPIPlan.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\EVE_PI_Plan\EVEPIPlan\obj\Debug\net6.0-windows\EVEPIPlan.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\EVE_PI_Plan\EVEPIPlan\obj\Debug\net6.0-windows\EVEPIPlan.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\EVE_PI_Plan\EVEPIPlan\obj\Debug\net6.0-windows\EVEPIPlan.dll
+C:\Users\ADMIN\source\repos\EVE_PI_Plan\EVEPIPlan\obj\Debug\net6.0-windows\refint\EVEPIPlan.dll
+C:\Users\ADMIN\source\repos\EVE_PI_Plan\EVEPIPlan\obj\Debug\net6.0-windows\EVEPIPlan.pdb
+C:\Users\ADMIN\source\repos\EVE_PI_Plan\EVEPIPlan\obj\Debug\net6.0-windows\EVEPIPlan.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\EVE_PI_Plan\EVEPIPlan\obj\Debug\net6.0-windows\ref\EVEPIPlan.dll
